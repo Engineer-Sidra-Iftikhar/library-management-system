@@ -1,0 +1,96 @@
+Enter your Email to Login : Enter your Password to Login : Welcome, You are Member of this Library
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: Enter ID of book: Enter title of book: Enter name of author: Enter quantity: 
+Books added successfully 
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: 
+--------------Book List-------------
+ID of book	Name of book	Author of book		Quantity
+101		CppPrimer		 StanleyLippman 		5
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: Enter your Id: Enter your Name: Enter your Age: Enter your Program: Enter your Email: ---------------------------------------------
+ID of Student: 1
+Name of Student: AliKhan
+Age of Student: 20
+Program of Student: CS
+E mail of Student: ali@gmail.com
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: Enter name of book you want to search: Product found 
+Book issue Successfully! 
+
+--------------Book List-------------
+ID of book	Name of book	Author of book		Quantity
+101		CppPrimer		 StanleyLippman 		5
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: Enter book name to update: Product found
+Enter ID of book: Enter title of book: Enter name of author: Enter quantity: 
+Product updated successfully!
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: 
+--------------Book List-------------
+ID of book	Name of book	Author of book		Quantity
+102		CppPrimer		 StanleyLippman 		10
+---------------------------------------------
+	Library Management System	
+1.Add Books to Library
+2.Books List of Library
+3.Enter Student Detail
+4.Enter Faculty Detail
+5.Search for book you want to Issue 
+6.Update Books 
+7.Program end 
+
+Enter your choice: Program end! 
